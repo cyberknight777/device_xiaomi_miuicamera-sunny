@@ -26,6 +26,7 @@
 /vendor/lib(64)?/libhvx_interface\.so                                            u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libMIAIHDRhvx_interface\.so                                     u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libmiai_portraitsupernight\.so                                  u:object_r:same_process_hal_file:s0
+/vendor/lib(64)?/libmiai_supernight\.so                                          u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libmialgo_basic\.so                                             u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libmialgoengine\.so                                             u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libmialgo_ie_capture\.so                                        u:object_r:same_process_hal_file:s0
