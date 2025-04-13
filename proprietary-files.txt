@@ -9,13 +9,15 @@ system/lib64/libgallery_mpbase.so;FIX_SONAME;SYMLINK=system/priv-app/MiuiExtraPh
 system/lib64/libmibokeh_gallery.so;SYMLINK=system/priv-app/MiuiExtraPhoto/lib/arm64/libmibokeh_gallery.so
 system/lib64/librefocus.so;DISABLE_CHECKELF;SYMLINK=system/priv-app/MiuiExtraPhoto/lib/arm64/librefocus.so
 system/lib64/librefocus_mibokeh.so;SYMLINK=system/priv-app/MiuiExtraPhoto/lib/arm64/librefocus_mibokeh.so
-system/lib64/libcamera_algoup_jni.xiaomi.so
-system/lib64/libcamera_mianode_jni.xiaomi.so
 system/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk
 
 # Leica
 system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Camera2,Flash|f5a8f3e046a04e5de4ca172cda0e23c55b9eaa17
 system/lib64/libcamera_jpegutil_jni.xiaomi.so|d159aebabed57516153a2d203d6104c80b4c1a95
+
+# Camera - from sweet V14.0.9.0.TKFMIXM
+system/lib64/libcamera_algoup_jni.xiaomi.so|622535858957dbfd1d1dfe0a2d4994208cf8a1b9
+system/lib64/libcamera_mianode_jni.xiaomi.so|45244ff9009b87da1733876b22fc8fdde08939bf
 
 vendor/lib64/camera.device@1.0-impl.so
 vendor/lib64/camera.device@3.2-impl.so
