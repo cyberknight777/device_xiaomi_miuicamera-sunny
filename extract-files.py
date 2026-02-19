@@ -19,7 +19,6 @@ from extract_utils.main import (
 
 namespace_imports = [
     'device/xiaomi/miuicamera-miatoll',
-    'vendor/xiaomi/sm6250-common',
     'vendor/xiaomi/miatoll',
 ]
 
